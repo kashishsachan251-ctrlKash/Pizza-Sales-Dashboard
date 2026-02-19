@@ -39,4 +39,4 @@ I built an interactive Power BI dashboard to analyze one year of pizza sales per
 
 💡 *This project focuses on turning raw sales data into actionable decision-making insights using data modeling, DAX measures, and visual storytelling.*
 
-Screenshot / Demos: 
+Screenshot / Demos: (https://github.com/kashishsachan251-ctrlKash/Pizza-Sales-Dashboard/blob/main/Screenshot%202026-02-18%20201450.png)
